@@ -2,7 +2,7 @@
 
 # Loading sinatra
 require 'sinatra'
-require 'ruby-hackernews'
+
 # Routes File
 require './routes.rb'
 # Running the routes
